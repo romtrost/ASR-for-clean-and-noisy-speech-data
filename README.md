@@ -1,4 +1,4 @@
-# Speech-Technology-DT2112-KTH
+# KTH DT2112-Speech Technology
 A prominent problem in speech recognition is how to deal with noise, i.e. features of recorded 
 audio orthogonal or detrimental to the recognition of the included speech. The goal of this 
 project is to investigate a section of this problem by training an ASR system on clean and dirty 
